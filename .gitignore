@@ -1,0 +1,28 @@
+# Executáveis
+*.exe
+
+# Objetos compilados
+*.o
+*.obj
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Cache
+*.cache
+
+# Arquivos do Dev-C++
+*.layout
+*.depend
+
+# Pastas de build
+build/
+bin/
+
+# Arquivos do Windows
+Thumbs.db
+desktop.ini

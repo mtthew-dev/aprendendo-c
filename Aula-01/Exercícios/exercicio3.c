@@ -8,7 +8,7 @@ int main() {
 	int idade;
 
 	printf("Qual o seu nome: ");
-		scanf("%s", &nome);
+		scanf("%s", nome);
 	printf("Qual sua idade: ");
 		scanf("%d", &idade);
 

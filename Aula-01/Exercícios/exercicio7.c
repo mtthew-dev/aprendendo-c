@@ -4,13 +4,13 @@ int main() {
 
 	/*Exercicio de Conversao de Temperatura.*/
 	
-	int celsius;
-	float fahr;
+	
+	float fahr, celsius;
 	
 	printf("Temperatura em Celsius: ");
-		scanf("%d", &celsius);
+		scanf("%f", &celsius);
 		
-		fahr = (celsius * 9 / 5) + 32;
+		fahr = (celsius * 9.0 / 5.0) + 32;
 		
 	printf("Equivalente em Fahrenheit: %.2f", fahr);
 

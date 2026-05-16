@@ -3,7 +3,7 @@
 int main() {
 	
 	
-	printf("Meu nome é Matheus\n");
+	printf("Meu nome e Matheus\n");
 	printf("Estou aprendendo C\n");
 	
 	

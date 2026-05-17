@@ -2,9 +2,9 @@
 
 int main() {
 	
-	printf("===============");
-	prinft(" APRENDENDO C");
-	printf("===============");
+	printf("===============\n");
+	printf(" APRENDENDO C\n");
+	printf("===============\n");
 	
 	return 0;
 }
